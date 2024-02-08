@@ -1,4 +1,4 @@
-# 窗口切换
+# 元素属性删除
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
